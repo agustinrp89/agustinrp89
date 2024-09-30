@@ -20,7 +20,7 @@
 [![image](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/agustinrp89/)
 </div>
 
-<h3 align="center">Languages y frameworks:</h3>
+<h3 align="center">Languages and frameworks:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
