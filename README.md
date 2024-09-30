@@ -9,7 +9,7 @@
 
 - 📫 Cómo contactar conmigo: **[Haga clic aquí](https://www.linkedin.com/in/agustin-rodriguez-ponce-7779b311b/)**
 
-- ⚡ Lo que me gusta hacer: **Me gusta mucho leer, jugar y codificar y entrenar**
+- ⚡ Lo que me gusta hacer: **Me gusta mucho leer, jugar , programar y entrenar**
 
 <h3 align="center">Conecta conmigo:</h3>
 <div align="center"
@@ -20,11 +20,27 @@
 [![image](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/agustinrp89/)
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages y frameworks:</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,php,js,mysql,github,git,figma,aws,css,docker,&perline=5" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,nodejs,nextjs,express,nestjs,react,tailwind,bootstrap&perline=5" />
+  </a>
+</p>
+
+<h3 align="center">Tools:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,git,github,notion,figma,aws,jenkins,docker,postman,selenmium,discord&perline=5" />
+  </a>
+</p>
+
+<h3 align="center">Database:</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=5" />
   </a>
 </p>
 
